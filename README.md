@@ -5,7 +5,9 @@
 </h1>
 
 <div align="center">
+  
 ![MacOS Support](https://img.shields.io/badge/MACOS-adb8c5?style=flat&logo=macos&logoColor=white)](https://github.com/ClassmateLin/uncle-qiu-sign-in/releases)
+  
 ![Linux Support](https://img.shields.io/badge/linux-1793D1?style=flat&logo=linux&logoColor=white)](https://github.com/ClassmateLin/uncle-qiu-sign-in/releases)
 </div>
 
