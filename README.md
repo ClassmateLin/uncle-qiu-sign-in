@@ -30,3 +30,8 @@
 
 ![](./example.png)
 
+## 其他脚本
+
+- [东东农场](https://github.com/ClassmateLin/jd-farm.git)
+
+- [签到领京豆](https://github.com/ClassmateLin/jd-take-bean.git)
